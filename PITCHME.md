@@ -38,11 +38,9 @@
 
 # 2010
 
-jhg
 
 ---?image=assets/stuck_dog.jpg&size=auto
 
-#HSLIDE
 
 ---?image=assets/cat_tank.jpg&size=auto
 
@@ -51,9 +49,8 @@ jhg
 ## E uma máquina sem permissões
 ## E...pessoas de informática
 
----?image=assets/it_guy.jpg&size=auto
+---?image=assets/it_guy.jpg&size=auto 75%
 
-#HSLIDE
 
 ## Go portable
 
