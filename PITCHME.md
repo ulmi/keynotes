@@ -26,12 +26,21 @@
 
 #HSLIDE
 
-![omeletes](assets/oso.jpg)
+![omeletes](assets/oso.png)
 
 #HSLIDE
 
 ![hmmm](assets/hmmm.gif)
 
+#HSLIDE
+
+## Tudo começa com um problema!
+
+# 2010
+
+#HSLIDE
+
+![stuck_dog](assets/stuck_dog.jpg)
 
 
 ## But...
