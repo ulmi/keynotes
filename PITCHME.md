@@ -42,6 +42,22 @@
 
 ![stuck_dog](assets/stuck_dog.jpg)
 
+#HSLIDE
+
+![cat_tank](assets/cat_tank.jpg)
+
+#HSLIDE
+
+## E uma máquina sem permissões
+## E...pessoas de informática
+
+![it_guy](assets/it_guy.jpg)
+
+#HSLIDE
+
+## Go portable
+
+
 
 ## But...
 ### is it ready for <span style="color:#e49436">production</span>?
