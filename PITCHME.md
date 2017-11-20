@@ -26,7 +26,7 @@
 
 #HSLIDE
 
-![omeletes](assets/oso.png)
+![omeletes](assets/oso.jpg)
 
 #HSLIDE
 
