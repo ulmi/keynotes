@@ -24,6 +24,15 @@
 ![manifesto](assets/manifesto.png)
 
 
+#HSLIDE
+
+![omeletes](assets/oso.png)
+
+#HSLIDE
+
+![hmmm](assets/hmmm.gif)
+
+
 
 ## But...
 ### is it ready for <span style="color:#e49436">production</span>?
