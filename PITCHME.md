@@ -40,18 +40,18 @@
 
 #HSLIDE
 
-![stuck_dog](assets/stuck_dog.jpg)
+![stuck_dog](assets/stuck_dog.jpg&size=auto 75%)
 
 #HSLIDE
 
-![cat_tank](assets/cat_tank.jpg)
+![cat_tank](assets/cat_tank.jpg&size=auto 75%)
 
 #HSLIDE
 
 ## E uma máquina sem permissões
 ## E...pessoas de informática
 
-![it_guy](assets/it_guy.jpg)
+![it_guy](assets/it_guy.jpg&size=auto 75%)
 
 #HSLIDE
 
