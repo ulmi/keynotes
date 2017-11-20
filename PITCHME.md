@@ -38,7 +38,7 @@
 
 # 2010
 
-#HSLIDE
+jhg
 
 ---?image=assets/stuck_dog.jpg&size=auto
 
