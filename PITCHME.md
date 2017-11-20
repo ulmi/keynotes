@@ -40,11 +40,11 @@
 
 #HSLIDE
 
-![stuck_dog](assets/stuck_dog.jpg&size=auto 75%)
+--?image=assets/stuck_dog.jpg&size=auto
 
 #HSLIDE
 
-![cat_tank](assets/cat_tank.jpg&size=auto 75%)
+--?image=assets/cat_tank.jpg&size=auto
 
 #HSLIDE
 
