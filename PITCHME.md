@@ -219,6 +219,6 @@
 
 ## Perguntas?
 
-* ![](assets/logo-twitter.png)<!-- .element class="logo" --> @ulmi
-* ![](assets/logo-github.png)<!-- .element class="logo" --> @ulmi
-* ![](assets/logo-linkedin.png)<!-- .element class="logo" --> @hdsantos
+* ![](assets/logo-twitter.png) @ulmi
+* ![](assets/logo-github.png) @ulmi
+* ![](assets/logo-linkedin.png) @hdsantos
