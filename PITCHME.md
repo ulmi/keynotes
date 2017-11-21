@@ -42,6 +42,8 @@
 
 ---?image=assets/it_guy.jpg&size=auto 85%
 
+#HSLIDE
+
 ## Soluções?
 + explicar o problema <!-- .element: class="fragment" -->
 + mostrar um caminho <!-- .element: class="fragment" -->
@@ -55,6 +57,8 @@
 ## Go <span style="color:#e49436">portable</span>
 
 ---?image=assets/go_portable.png&size=auto 90%
+
+#HSLIDE
 
 ## OK...
 ### mas e as aplicações de <span style="color:#e49436">SIG</span>?
