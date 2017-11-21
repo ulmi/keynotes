@@ -9,6 +9,20 @@
 
 #HSLIDE
 
+# <span style="color:#e49436">"</span>
+### The only source of knowledge is experience
+<span style="font-size:0.6em; color:gray">Albert Einstein</span>
+
+#HSLIDE
+
+# <span style="color:#e49436">"</span>
+### A jack of all trades is a master of none,<!-- .element: class="fragment" -->
+### but oftentimes better than a master of one!
+<span style="font-size:0.6em; color:gray">alguém mais inteligente que eu</span>
+
+
+#HSLIDE
+
 ![culpa](assets/culpa.png)
 
 #HSLIDE
@@ -42,6 +56,8 @@
 
 ---?image=assets/it_guy.jpg&size=auto 85%
 
+---?image=assets/bruce.gif&size=auto
+
 #HSLIDE
 
 ## Soluções?
@@ -51,6 +67,9 @@
 + continuar <!-- .element: class="fragment" -->
 
 <span style="font-size:0.6em; color:gray">Porque realmente só estva a perder tempo e a aumentar os níveis de frustração</span>
+
+---?image=assets/computer_panda.gif&size=auto
+
 
 #HSLIDE
 
@@ -69,7 +88,8 @@
 + openJUMP <!-- .element: class="fragment" -->  
 + Saga GIS <!-- .element: class="fragment" -->
 + PostreSQl + PostGIS <!-- .element: class="fragment" -->
-
++ Spatialite <!-- .element: class="fragment" -->
++ entre outros <!-- .element: class="fragment" -->
 
 #HSLIDE
 
@@ -81,13 +101,11 @@
 ![postgis](assets/postgis.png)
 ![spatialite](assets/spatialite.jpg)
 
-
-
 ### então e o <span style="color:#e49436">QGIS</span>?
 
 #HSLIDE
 
-## Dá um pouco mais trabalho, mas funciona...
+### Um pouco mais trabalho, mas...
 
 - [https://github.com/Frederikssund/Alternativ-QGIS-installation](http://bit.ly/2z9GU0D)
 
@@ -99,6 +117,53 @@
 ### Existe o projecto da <span style="color:#e49436">Jo Cook</span>
 
 ![portable_gis](assets/portable_gis.png)
+
+#HSLIDE
+
++ Desktop GIS packages QGIS version 2.18.11 LTR
++ FWTools (GDAL and OGR toolkit)
++ Apache2 and Php5
++ PostgreSQL (version 9.1)/Postgis (version 2.1)
++ Mapserver 5.6 and 6, OpenLayers
++ Python 2.7 with GDAL 1.9 libraries and Psycopg2
++ ...
++ Geoserver 2.8
++ Utilities- portable firefox, pdf reader and text editor
+
+---?image=assets/sucess.jpg&size=auto 90%
+
+#HSLIDE
+
+---?image=assets/disney.gif&size=auto
+
+---?image=assets/cat_fail.gif&size=auto
+
+#HSLIDE
+
+### Podemos começar de forma <span style="color:#e49436">simples</span>
+
+### Serverless mode
+
++ Spatialite <!-- .element: class="fragment" -->
++ Geopackage
+
+#HSLIDE
+
+### QGIS Virtual Layers
+
+---?image=assets/qgis_virtual.png&size=auto
+
+---?image=assets/goat.gif&size=auto
+
+#HSLIDE
+
+![odk](assets/qgis_odk.png)
+![ona](assets/odk_ona.png)
+
+
+
+
+
 
 
 
