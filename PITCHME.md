@@ -204,8 +204,8 @@
 
 ### Mas também...<!-- .element: class="fragment" -->
 
-+ Incrementar <!-- .element: class="fragment" -->
-+ Partilhar <!-- .element: class="fragment" -->
+* Incrementar <!-- .element: class="fragment" -->
+* Partilhar <!-- .element: class="fragment" -->
 ### <span style="color:#e49436">Conhecimento</span> <!-- .element: class="fragment" -->
 
 ---?image=assets/brexit.png&size=auto
