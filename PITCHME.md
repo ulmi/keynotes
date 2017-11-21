@@ -201,11 +201,18 @@
 + não só a liberdade de escolha <!-- .element: class="fragment" -->
 + é mais a possibilidade de escolha <!-- .element: class="fragment" -->
 
-### Mas também...
+
+### Mas também...<!-- .element: class="fragment" -->
 
 + Incrementar <!-- .element: class="fragment" -->
 + Partilhar <!-- .element: class="fragment" -->
 ### <span style="color:#e49436">Conhecimento</span> <!-- .element: class="fragment" -->
+
+---?image=assets/brexit.png&size=auto
+
+---?image=assets/trump.jpg&size=auto
+
+---?image=assets/flat_earth.png&size=auto
 
 ---?image=assets/thx.png&size=auto 75%
 
