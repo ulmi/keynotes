@@ -15,7 +15,7 @@
 #HSLIDE
 
 ### <span style="color:#e49436">"</span>A jack of all trades is a master of none,
-### but oftentimes better than a master of one!<!-- .element: class="fragment" -->
+### but often times better than a master of one!<!-- .element: class="fragment" -->
 <span style="font-size:0.6em; color:gray">alguém mais inteligente que eu</span>
 
 
@@ -128,7 +128,7 @@
 + Geoserver 2.8
 + Utilities- portable firefox, pdf reader and text editor
 
----?image=assets/sucess.jpg&size=auto 90%
+---?image=assets/sucess.jpg&size=auto 80%
 
 ---?image=assets/disney.gif&size=auto
 
@@ -161,17 +161,18 @@
 ![odk](assets/qgis_odk.png)
 ![ona](assets/odk_ona.png)
 
----?image=assets/paparazzi.png&size=auto 50%
+---?image=assets/paparazzi.png&size=auto 80%
 
 #HSLIDE
 
-### então e o <span style="color:#e49436">WEB</span>?
+### então e <span style="color:#e49436">WEB</span>?
 
 ---?image=assets/to_internet.gif&size=auto
 
 #HSLIDE
 
 ### Pequenas coisas
+#### possíveis de fazer graças à magia de uma mão cheia de span style="color:#e49436">javascripts</span> <!-- .element: class="fragment" -->
 
 ---?image=assets/dados_abertos.png&size=auto 50%
 
