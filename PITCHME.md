@@ -197,7 +197,7 @@
 #HSLIDE
 
 + Não só liberdade de escolha <!-- .element: class="fragment" -->
-+ Mas possibilidade de escolha <!-- .element: class="fragment" -->
++ é mais possibilidade de escolha <!-- .element: class="fragment" -->
 
 ---?image=assets/thx.png&size=auto 50%
 
