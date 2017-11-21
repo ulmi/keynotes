@@ -171,8 +171,16 @@
 
 #HSLIDE
 
+## Não tenho <span style="color:#e49436">nada...</span>
+
+- [http://www.openstreetmap.org](http://www.openstreetmap.org)
+
+---?image=assets/map.png&size=auto
+
+#HSLIDE
+
 ### Pequenas coisas
-#### possíveis de fazer graças à magia de uma mão cheia de <span style="color:#e49436">javascripts</span>
+#### possíveis com uma mão cheia de <span style="color:#e49436">javascripts</span>
 
 ---?image=assets/dados_abertos.png&size=auto 75%
 
@@ -201,18 +209,6 @@
 + não só a liberdade de escolha <!-- .element: class="fragment" -->
 + é mais a possibilidade de escolha <!-- .element: class="fragment" -->
 
-
-### Mas também...<!-- .element: class="fragment" -->
-
-* Incrementar <!-- .element: class="fragment" -->
-* Partilhar <!-- .element: class="fragment" -->
-### <span style="color:#e49436">Conhecimento</span> <!-- .element: class="fragment" -->
-
----?image=assets/brexit.png&size=auto
-
----?image=assets/trump.jpg&size=auto
-
----?image=assets/flat_earth.png&size=auto
 
 ---?image=assets/thx.png&size=auto 75%
 
