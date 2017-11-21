@@ -219,6 +219,6 @@
 
 ## Perguntas?
 
-* ![g](assets/logo-twitter.png) @ulmi
-* ![g](assets/logo-github.png) @ulmi
-* ![g](assets/logo-linkedin.png) @hdsantos
+* twitter -> @ulmi
+* github -> @ulmi
+* linkedin -> @hdsantos
