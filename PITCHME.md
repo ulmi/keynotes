@@ -172,7 +172,7 @@
 #HSLIDE
 
 ### Pequenas coisas
-#### possíveis de fazer graças à magia de uma mão cheia de <span style="color:#e49436">javascripts</span> <!-- .element: class="fragment" -->
+#### possíveis de fazer graças à magia de uma mão cheia de <span style="color:#e49436">javascripts</span>
 
 ---?image=assets/dados_abertos.png&size=auto 75%
 
@@ -187,11 +187,15 @@
 
 ---?image=assets/story.png&size=auto 80%
 
+#HSLIDE
+
+### <span style="color:#e49436">Demo</span>
+
+
 
 
 #HSLIDE
 
 ---?image=assets/mgxuvs5p1acdxsqxabte.png&size=auto 50%
 
-###Obrigado
 Hugo Santos [@ulmi](http://twitter.com/ulmi)
