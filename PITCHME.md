@@ -192,10 +192,16 @@
 ### <span style="color:#e49436">Demo</span>
 
 
-
+---?image=assets/Confident-Mindset.jpg&size=auto 80%
 
 #HSLIDE
 
++ Não só liberdade de escolha <!-- .element: class="fragment" -->
++ Mas possibilidade de escolha <!-- .element: class="fragment" -->
+
 ---?image=assets/thx.png&size=auto 50%
+
+
+#HSLIDE
 
 Hugo Santos [@ulmi](http://twitter.com/ulmi)
