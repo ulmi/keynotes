@@ -36,28 +36,28 @@
 
 ## Tudo começa com um problema!
 
-# 2010
+---?image=assets/stuck_dog.jpg&size=auto 90%
 
+---?image=assets/cat_tank.jpg&size=auto 90%
 
----?image=assets/stuck_dog.jpg&size=auto
+---?image=assets/it_guy.jpg&size=auto 85%
 
+## Soluções?
++ explicar o problema <!-- .element: class="fragment" -->
++ mostrar um caminho <!-- .element: class="fragment" -->
++ ... <!-- .element: class="fragment" -->
++ continuar <!-- .element: class="fragment" -->
 
----?image=assets/cat_tank.jpg&size=auto
+<span style="font-size:0.6em; color:gray">Porque realmente só estva a perder tempo e a aumentar os níveis de frustração</span>
 
 #HSLIDE
 
-## E uma máquina sem permissões
-## E...pessoas de informática
+## Go <span style="color:#e49436">portable</span>
 
----?image=assets/it_guy.jpg&size=auto 75%
+---?image=assets/go_portable.png&size=auto 90%
 
-
-## Go portable
-
-
-
-## But...
-### is it ready for <span style="color:#e49436">production</span>?
+## OK...
+### mas e as aplicações de <span style="color:#e49436">SIG</span>?
 
 #HSLIDE
 
