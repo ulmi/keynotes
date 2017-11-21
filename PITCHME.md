@@ -196,6 +196,6 @@
 
 #HSLIDE
 
----?image=assets/mgxuvs5p1acdxsqxabte.png&size=auto 50%
+---?image=assets/thx.png&size=auto 50%
 
 Hugo Santos [@ulmi](http://twitter.com/ulmi)
