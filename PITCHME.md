@@ -172,17 +172,21 @@
 #HSLIDE
 
 ### Pequenas coisas
-#### possíveis de fazer graças à magia de uma mão cheia de span style="color:#e49436">javascripts</span> <!-- .element: class="fragment" -->
+#### possíveis de fazer graças à magia de uma mão cheia de <span style="color:#e49436">javascripts</span> <!-- .element: class="fragment" -->
 
----?image=assets/dados_abertos.png&size=auto 50%
+---?image=assets/dados_abertos.png&size=auto 75%
 
 + feito com o qgis2web <!-- .element: class="fragment" -->
 + alojado no github <!-- .element: class="fragment" -->
 
 #HSLIDE
 
-
 - [https://github.com/jakobzhao/storymap](https://github.com/jakobzhao/storymap)
+
+![atlas](assets/atlas.png)
+
+---?image=assets/story.png&size=auto 80%
+
 
 
 #HSLIDE
