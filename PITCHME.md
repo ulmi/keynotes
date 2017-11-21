@@ -58,10 +58,11 @@
 #HSLIDE
 
 ## Soluções?
++ dialogar <!-- .element: class="fragment" -->
 + explicar o problema <!-- .element: class="fragment" -->
 + mostrar um caminho <!-- .element: class="fragment" -->
 + ... <!-- .element: class="fragment" -->
-+ continuar <!-- .element: class="fragment" -->
++ voltar a dialogar <!-- .element: class="fragment" -->
 
 <span style="font-size:0.6em; color:gray">Perca de tempo, níveis de frustração lá em cima</span> <!-- .element: class="fragment" -->
 
@@ -208,7 +209,7 @@
 
 + não só a liberdade de escolha <!-- .element: class="fragment" -->
 + algo mais importante ...<!-- .element: class="fragment" -->
-+ é mais a possibilidade de escolha <!-- .element: class="fragment" -->
++ a possibilidade de escolha <!-- .element: class="fragment" -->
 
 
 ---?image=assets/thx.png&size=auto 75%
@@ -216,4 +217,8 @@
 
 #HSLIDE
 
-Hugo Santos [@ulmi](http://twitter.com/ulmi)
+## Perguntas?
+
+* ![](assets/logo-twitter.png)<!-- .element class="logo" --> @ulmi
+* ![](assets/logo-github.png)<!-- .element class="logo" --> @ulmi
+* ![](assets/logo-linkedin.png)<!-- .element class="logo" --> @hdsantos
