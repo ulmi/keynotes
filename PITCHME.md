@@ -67,11 +67,40 @@
 + gvSIG <!-- .element: class="fragment" --> 
 + uDig <!-- .element: class="fragment" --> 
 + openJUMP <!-- .element: class="fragment" -->  
++ Saga GIS <!-- .element: class="fragment" -->
++ PostreSQl + PostGIS <!-- .element: class="fragment" -->
+
 
 #HSLIDE
+
+## Portable
 ![gvsig](assets/gvsig.png)
 ![udig](assets/udig.png)
 ![openjump](assets/openjump.png)
+![sagagis](assets/saga.jpeg)
+![postgis](assets/postgis.png)
+![spatialite](assets/spatialite.jpg)
+
+
+
+### então e o <span style="color:#e49436">QGIS</span>?
+
+#HSLIDE
+
+## Dá um pouco mais trabalho, mas funciona...
+
+- [https://github.com/Frederikssund/Alternativ-QGIS-installation](http://bit.ly/2z9GU0D)
+
+![github](assets/portable_qgis.png)
+
+#HSLIDE
+
+## E para quem não quer ter trabalho nenhum
+### Existe o projecto da <span style="color:#e49436">Jo Cook</span>
+
+![portable_gis](assets/portable_gis.png)
+
+
 
 ## Benchmarks
 
