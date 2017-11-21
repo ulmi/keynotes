@@ -173,7 +173,7 @@
 
 ## Não tenho <span style="color:#e49436">nada...</span>
 
-- [http://www.openstreetmap.org](http://www.openstreetmap.org)
+- [http://www.openstreetmap.org](http://www.openstreetmap.org) <!-- .element: class="fragment" -->
 
 ---?image=assets/map.png&size=auto
 
@@ -207,6 +207,7 @@
 ### Open-Source permite...
 
 + não só a liberdade de escolha <!-- .element: class="fragment" -->
++ algo mais importante ...<!-- .element: class="fragment" -->
 + é mais a possibilidade de escolha <!-- .element: class="fragment" -->
 
 
