@@ -161,7 +161,7 @@
 ![odk](assets/qgis_odk.png)
 ![ona](assets/odk_ona.png)
 
----?image=assets/paparazzi.png&size=auto
+---?image=assets/paparazzi.png&size=auto 50%
 
 #HSLIDE
 
@@ -169,11 +169,24 @@
 
 ---?image=assets/to_internet.gif&size=auto
 
+#HSLIDE
 
+### Pequenas coisas
+
+---?image=assets/dados_abertos.png&size=auto 50%
+
++ feito com o qgis2web <!-- .element: class="fragment" -->
++ alojado no github <!-- .element: class="fragment" -->
+
+#HSLIDE
+
+
+- [https://github.com/jakobzhao/storymap](https://github.com/jakobzhao/storymap)
 
 
 #HSLIDE
 
----image=assets/mgxuvs5p1acdxsqxabte.png&size=auto 50%
+---?image=assets/mgxuvs5p1acdxsqxabte.png&size=auto 50%
 
+###Obrigado
 Hugo Santos [@ulmi](http://twitter.com/ulmi)
