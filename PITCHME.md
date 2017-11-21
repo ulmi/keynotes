@@ -63,7 +63,7 @@
 + ... <!-- .element: class="fragment" -->
 + continuar <!-- .element: class="fragment" -->
 
-<span style="font-size:0.6em; color:gray">Porque realmente só estava a perder tempo e a aumentar os níveis de frustração</span> <!-- .element: class="fragment" -->
+<span style="font-size:0.6em; color:gray">Perca de tempo, níveis de frustração lá em cima</span> <!-- .element: class="fragment" -->
 
 ---?image=assets/computer_panda.gif&size=auto
 
@@ -86,7 +86,7 @@
 + uDig <!-- .element: class="fragment" --> 
 + openJUMP <!-- .element: class="fragment" -->  
 + Saga GIS <!-- .element: class="fragment" -->
-+ PostreSQl + PostGIS <!-- .element: class="fragment" -->
++ PostreSQL + PostGIS <!-- .element: class="fragment" -->
 + Spatialite <!-- .element: class="fragment" -->
 + entre outros <!-- .element: class="fragment" -->
 
@@ -104,7 +104,7 @@
 
 #HSLIDE
 
-### Um pouco mais trabalho, mas...
+### Um pouco + de trabalho, mas...
 
 - [https://github.com/Frederikssund/Alternativ-QGIS-installation](http://bit.ly/2z9GU0D)
 
@@ -199,7 +199,7 @@
 + Não só liberdade de escolha <!-- .element: class="fragment" -->
 + é mais possibilidade de escolha <!-- .element: class="fragment" -->
 
----?image=assets/thx.png&size=auto 50%
+---?image=assets/thx.png&size=auto 75%
 
 
 #HSLIDE
