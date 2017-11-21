@@ -196,8 +196,16 @@
 
 #HSLIDE
 
-+ Não só liberdade de escolha <!-- .element: class="fragment" -->
-+ é mais possibilidade de escolha <!-- .element: class="fragment" -->
+### Open-Source permite...
+
++ não só a liberdade de escolha <!-- .element: class="fragment" -->
++ é mais a possibilidade de escolha <!-- .element: class="fragment" -->
+
+### Mas também...
+
++ Incrementar <!-- .element: class="fragment" -->
++ Partilhar <!-- .element: class="fragment" -->
+### <span style="color:#e49436">Conhecimento</span> <!-- .element: class="fragment" -->
 
 ---?image=assets/thx.png&size=auto 75%
 
