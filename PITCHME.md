@@ -16,8 +16,8 @@
 #HSLIDE
 
 # <span style="color:#e49436">"</span>
-### A jack of all trades is a master of none,<!-- .element: class="fragment" -->
-### but oftentimes better than a master of one!
+### A jack of all trades is a master of none,
+### but oftentimes better than a master of one!<!-- .element: class="fragment" -->
 <span style="font-size:0.6em; color:gray">alguém mais inteligente que eu</span>
 
 
@@ -56,7 +56,6 @@
 
 ---?image=assets/it_guy.jpg&size=auto 85%
 
----?image=assets/bruce.gif&size=auto
 
 #HSLIDE
 
@@ -66,10 +65,11 @@
 + ... <!-- .element: class="fragment" -->
 + continuar <!-- .element: class="fragment" -->
 
-<span style="font-size:0.6em; color:gray">Porque realmente só estva a perder tempo e a aumentar os níveis de frustração</span>
+<span style="font-size:0.6em; color:gray">Porque realmente só estava a perder tempo e a aumentar os níveis de frustração</span> <!-- .element: class="fragment" -->
 
 ---?image=assets/computer_panda.gif&size=auto
 
+---?image=assets/bruce.gif&size=auto
 
 #HSLIDE
 
@@ -113,8 +113,7 @@
 
 #HSLIDE
 
-## E para quem não quer ter trabalho nenhum
-### Existe o projecto da <span style="color:#e49436">Jo Cook</span>
+### E para quem não quer ter trabalho nenhum
 
 ![portable_gis](assets/portable_gis.png)
 
@@ -132,8 +131,6 @@
 
 ---?image=assets/sucess.jpg&size=auto 90%
 
-#HSLIDE
-
 ---?image=assets/disney.gif&size=auto
 
 ---?image=assets/cat_fail.gif&size=auto
@@ -142,10 +139,10 @@
 
 ### Podemos começar de forma <span style="color:#e49436">simples</span>
 
-### Serverless mode
+#### Serverless mode
 
 + Spatialite <!-- .element: class="fragment" -->
-+ Geopackage
++ Geopackage <!-- .element: class="fragment" -->
 
 #HSLIDE
 
@@ -156,6 +153,11 @@
 ---?image=assets/goat.gif&size=auto
 
 #HSLIDE
+
+## Levar o SIG para a rua
+
+- [https://github.com/enricofer/QgisODK](https://github.com/enricofer/QgisODK)
+- [https://ona.io](https://ona.io)
 
 ![odk](assets/qgis_odk.png)
 ![ona](assets/odk_ona.png)
