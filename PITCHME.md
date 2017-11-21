@@ -64,9 +64,14 @@
 ### mas e as aplicações de <span style="color:#e49436">SIG</span>?
 
 #HSLIDE
-+ gvSIG <!-- .element: class="fragment" --> ![gvsig](assets/gvsig.png) 
-+ uDig <!-- .element: class="fragment" --> ![udig](assets/udig.png) 
-+ openJUMP <!-- .element: class="fragment" --> ![openjump](assets/openjump.png) 
++ gvSIG <!-- .element: class="fragment" --> 
++ uDig <!-- .element: class="fragment" --> 
++ openJUMP <!-- .element: class="fragment" -->  
+
+#HSLIDE
+![gvsig](assets/gvsig.png)
+![udig](assets/udig.png)
+![openjump](assets/openjump.png)
 
 ## Benchmarks
 
