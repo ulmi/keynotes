@@ -9,14 +9,12 @@
 
 #HSLIDE
 
-# <span style="color:#e49436">"</span>
-### The only source of knowledge is experience
+### <span style="color:#e49436">"</span> The only source of knowledge is experience
 <span style="font-size:0.6em; color:gray">Albert Einstein</span>
 
 #HSLIDE
 
-# <span style="color:#e49436">"</span>
-### A jack of all trades is a master of none,
+### <span style="color:#e49436">"</span>A jack of all trades is a master of none,
 ### but oftentimes better than a master of one!<!-- .element: class="fragment" -->
 <span style="font-size:0.6em; color:gray">alguém mais inteligente que eu</span>
 
@@ -83,7 +81,8 @@
 ### mas e as aplicações de <span style="color:#e49436">SIG</span>?
 
 #HSLIDE
-+ gvSIG <!-- .element: class="fragment" --> 
+
++ gvSIG 
 + uDig <!-- .element: class="fragment" --> 
 + openJUMP <!-- .element: class="fragment" -->  
 + Saga GIS <!-- .element: class="fragment" -->
@@ -162,120 +161,19 @@
 ![odk](assets/qgis_odk.png)
 ![ona](assets/odk_ona.png)
 
-
-
-
-
-
-
-
-## Benchmarks
-
-#### Unfortunately, <span style="color:#e49436">ActionCable</span> leaves much to be desired
-
-<span style="font-size:0.6em; color:gray">Press Down key to see charts and gifs</span>
-
-#VSLIDE
-
-## Memory
-
-![memory](assets/Memory3.png)
-
-#VSLIDE
-
-## CPU
-
-![cpu](assets/cpu_chart.gif)
-
-#VSLIDE
-
-## Broadcast Round Trip Time
-
-![rtt](assets/RTT3.png)
+---?image=assets/paparazzi.png&size=auto
 
 #HSLIDE
 
-### Let's extract <span style="color:#e49436">WebSockets</span> somewhere else!
+### então e o <span style="color:#e49436">WEB</span>?
 
-#HSLIDE
+---?image=assets/to_internet.gif&size=auto
 
-## AnyCable
 
-#### Combines the good parts from <span style="color:#e49436">ActionCable</span> with the power of your favorite language for concurrent applications
-
-<span style="font-size:0.6em; color:gray">How it works? See below</span>
-
-#VSLIDE
-
-## How AnyCable Works
-
-![diagram](assets/Scheme2.png)
-
-#VSLIDE
-
-## [gRPC](http://grpc.io)
-
-### Makes AnyCable to be a <span style="color:#e49436">polyglot</span>
-
-#VSLIDE
-
-## AnyCable
-
-#### [Compatible](https://github.com/anycable/anycable#actioncable-compatibility) with ActionCable (channels, javascript, broadcasting)
-
-#### You can still use ActionCable for <span style="color:#e49436">development</span> and <span style="color:#e49436">testing</span>
-
-#VSLIDE
-
-## AnyCable Servers
-
-- [anycable-go](https://github.com/anycable/anycable-go)
-
-- [erlycable](https://github.com/anycable/erlycable)
-
-#VSLIDE
-
-## AnyCable
-
-### [Demo Application](https://github.com/anycable/anycable_demo)
-
-#HSLIDE
-
-## Benchmarks Again
-
-#### AnyCable shows much more better performance.
-
-<span style="font-size:0.6em; color:gray">Press Down key to see charts and gifs</span>
-
-#VSLIDE
-
-## Memory
-
-![memory](assets/Memory5.png)
-
-#VSLIDE
-
-## CPU
-
-![cpu](assets/cpu_chart2.gif)
-
-#VSLIDE
-
-## Broadcast Round Trip Time
-
-![rtt](assets/RTT5.png)
 
 
 #HSLIDE
 
-## Let's Make ActionCable Not Suck!
+---image=assets/mgxuvs5p1acdxsqxabte.png&size=auto 50%
 
-[anycable.evilmartians.io](http://anycable.io/)
-
-Vladimir Dementyev [@palkan_tula](http://twitter.com/palkan_tula)
-
-[Evil Martians](http://evilmartians.com)
-
-Twitter [@any_cable](http://twitter.com/any_cable)
-
-GitHub [@anycable](http://github.com/anycable)
+Hugo Santos [@ulmi](http://twitter.com/ulmi)
